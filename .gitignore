@@ -1,8 +1,4 @@
-# Built application files
-*.apk
-*.aar
-*.ap_
-*.aab
+
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -77,9 +73,3 @@ fastlane/readme.md
 # Version control
 vcs.xml
 
-# lint
-lint/intermediates/
-lint/generated/
-lint/outputs/
-lint/tmp/
-# lint/reports/
